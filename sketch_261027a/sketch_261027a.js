@@ -9,4 +9,5 @@ function draw() {
   fill(0);
   text("hola mundo!!", 100, 100);
   text("hola Cata :)", 100, 150);
+  text("hola mati :]", 100, 200);
 }
